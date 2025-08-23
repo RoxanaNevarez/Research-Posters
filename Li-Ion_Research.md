@@ -1,6 +1,6 @@
 # **Lithium-Ion Research Posters**
 
-## **Presented at WashU Research Symposium**
+## **Presented at 2023 WashU Research Symposium**
 ![Image](https://github.com/user-attachments/assets/9650d8ec-de30-4c53-be76-19f79376c200)
 
 ## **Presented at 2025 AAAS-STEM Conference**
